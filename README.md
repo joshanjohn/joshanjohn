@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi myself Joshan John ☢️
 
-<!--
-**joshanjohn/joshanjohn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on web and app developing
+- 🌱 I’m currently learning Django framework
+- 👯 I’m looking to collaborate on self learning😜
+- 🤔 I’m looking for help with swift
+- 💬 Ask me about python algorithm
+- 📫 How to reach me: 👦🏻[instagram](https://www.instagram.com/mr_._joshan_/)
+- 😄 call me joshan 
+- ⚡ Fun fact: can
