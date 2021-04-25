@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Python || part-1|| variables and type|| malayalam](https://www.youtube.com/watch?v=LQQ3CR2JTX8)
+- [Python || part-1|| variables and type|| malayalam](https://youtu.be/TouadCF8Ya0)
 
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC20bQve1X7_lmArzUQS11vw)
