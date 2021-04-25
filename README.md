@@ -13,3 +13,25 @@ Here are some ideas to get you started:
 - 📫 How to reach me: 👦🏻[instagram](https://www.instagram.com/mr_._joshan_/)
 - 😄 call me joshan 
 - ⚡ Fun fact: can
+
+
+### Connect with me:
+
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" href="https://youtu.be/TouadCF8Ya0"/>][youtube]
+[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="https://www.instagram.com/mr_._joshan_/" />][instagram]
+
+<br />
+
+
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+- [Python || part-1|| variables and type|| malayalam](https://www.youtube.com/watch?v=LQQ3CR2JTX8)
+
+
+➡️ [more videos...](https://www.youtube.com/channel/UC20bQve1X7_lmArzUQS11vw)
+
+---
+
