@@ -14,17 +14,10 @@ Here are some ideas to get you started:
 - 😄 call me joshan 
 - ⚡ Fun fact: can
 
-
-### Connect with me:
-
-<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" href="https://youtu.be/TouadCF8Ya0"/>
-<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" href="https://www.instagram.com/mr_._joshan_/" />
-
-<br />
-
-
 ---
-
+![joshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshanjohn&hide=contribs,prs)
+---
+![joshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshanjohn&hide=contribs,prs)
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -32,6 +25,3 @@ Here are some ideas to get you started:
 
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC20bQve1X7_lmArzUQS11vw)
-
----
-![joshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshanjohn&hide=contribs,prs)
