@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 ---
 ![joshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshanjohn&hide=contribs,prs)
 ---
-![joshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshanjohn&hide=contribs,prs)
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
