@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 ➡️ [more videos...](https://www.youtube.com/channel/UC20bQve1X7_lmArzUQS11vw)
 
 ---
-
+![joshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshanjohn&hide=contribs,prs)
