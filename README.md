@@ -5,14 +5,14 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on app developing with Flutter Framework
-- 🌱 I’m currently learning Flutter framework
-- 👯 I’m looking to collaborate on self learning😜
+- 🔭 I’m currently working and learning java
+- 🌱 I’m currently learning the Flutter framework
+- 👯 I’m looking to collaborate on self-learning 😜
 - 🤔 I’m looking for help with swift
-- 💬 Ask me about python algorithm
+- 💬 Ask me about Python algorithm
 - 📫 How to reach me: 👦🏻[instagram](https://www.instagram.com/mr_._joshan_/)
 - 😄 call me joshan 
-- ⚡ Fun fact: I'm a greek
+- ⚡ Fun fact: I'm a human
 
 ---
 ![joshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshanjohn&hide=contribs,prs)
